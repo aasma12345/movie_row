@@ -1,0 +1,117 @@
+body{
+ 	background-color:black;
+ 	height:4000px;
+ 	width:100%;
+ 	color:white;
+}
+.row{
+	border-bottom: solid 1px red;
+	height:120px;
+	width:100%;
+	
+}
+.row1{
+	border:solid 1px red;
+	height:277px;
+	width:1500px;
+	margin:auto;
+	margin-top:30px;
+	
+}
+.col{
+	height:277px;
+	width:200px;
+	float:left;
+}
+.row2{
+	height:50px;
+	width:100%;
+}
+.col1{
+	border:solid 1px red;
+	height:80px;
+	width:90%;
+	float:left;
+	margin-top:17px;
+}
+img{
+    height:70px;
+    width:70px;
+
+}
+.col2{
+    height:70px;
+    width:70;
+    float:left;
+    margin-top:20px;
+    
+}
+.image{
+    height:70px;
+    width:100px;
+    float:left;
+    margin-top:28px;
+    margin-left:100px;
+    line-height:100%;
+    
+}
+.col3{
+    float:right;
+    width:130px;
+    margin-right:60px;
+    margin-top:28px;
+}
+.col4{
+    float:right;
+    width:100px;
+    margin-top:28px;
+ }
+.col5{
+    float:left;
+    width:80px;
+    margin-left:160px;
+    margin-top:20px;
+}
+.col9{
+    border-bottom: solid 1px gray;
+    height:270px;
+    width:1500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:40px;
+}
+.col6{
+    height:260px;
+    width:200px;
+    float:left;
+}
+.like{
+    height:27px;
+    width:27px;
+    float:left;
+}
+.dislike{
+    height:32px;
+    width:32px;
+    float:left;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.delete{
+    height:32px;
+    width:32px;
+    float:right;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.col10{
+
+     height:250px;
+     width:200px;
+}
+.col11{
+    margin-left:220px;
+}
+
+
+
